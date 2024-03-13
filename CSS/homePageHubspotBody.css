@@ -1,0 +1,222 @@
+/* Body content */
+#first-content {
+    max-width: 100vw;
+    height: 80vh;
+    align-items: center;
+    background-color: #fcead7;
+    display: flex;
+    position: relative;
+}
+
+#begine-dev {
+    margin-left: 12%;
+    width: fit-content;
+
+}
+
+#begine-p1 {
+    margin-top: 10px;
+    padding-right: 3rem;
+    text-align: justify;
+    font-size: 21px;
+    line-height: 2rem;
+}
+
+#begine-p2 {
+    margin-top: 10px;
+}
+
+#begine-dev1 {
+    display: flex;
+    margin-top: 20px;
+    width: 34rem;
+    height: 8rem;
+    background-color: #fff;
+}
+
+#begine-dev1 img,
+#begine-dev1 p {
+    font-size: 17.5px;
+    height: 6.7rem;
+    padding: 10px;
+}
+
+#Download-now-id {
+    background-color: rgb(255, 92, 53);
+    color: #fff;
+    border: none;
+    position: relative;
+    font-size: large;
+    font-weight: bolder;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 10px;
+    top: -3.7rem;
+    left: 8.5rem;
+}
+
+#first-h1 {
+    font-size: 40px;
+}
+
+#grid1-content {
+    margin-right: 10%;
+    width: fit-content;
+}
+
+#grid1-content img {
+    height: 30rem;
+    width: 35rem;
+}
+
+#grid1-content p {
+    position: absolute;
+    right: 9rem;
+}
+
+.home-content {
+    padding-top: 20px;
+    margin-top: 50px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: justify;
+    font-size: 21px;
+
+}
+
+.home-content p,
+.home-content ol li,
+.home-content a {
+    padding-top: 1rem;
+    line-height: 2rem;
+}
+
+#what-Web-dev {
+    margin-top: 0px;
+    padding: 15px 0px;
+    text-align: left;
+    align-items: center;
+    display: inline-block;
+}
+
+.what-Web-dev-cls {
+    padding: 0px 10px;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid black;
+}
+
+.what-Web-dev-id {
+    margin-top: 10px;
+    padding: 30px 30px;
+    background-color: #f6f9fc;
+}
+
+.what-Web-dev-id p {
+    margin-top: 15px;
+}
+
+.what-Web-dev-cls img {
+    margin: 0px 10px;
+    width: 50px;
+    align-items: center;
+    position: relative;
+    top: 15px;
+}
+
+.what-Web-dev-cls h2 {
+    margin-bottom: 10px;
+    padding: 50px 50px;
+}
+
+#chapter {
+    width: 70%;
+    margin: 0 43%;
+    display: inline-block;
+}
+
+#chapter div {
+    display: inline-block;
+}
+
+.Fity-free-code-temp {
+    width: 50%;
+    height: 50%%;
+    margin-top: 20px;
+    background-color: #fef4ea;
+    display: flex;
+}
+
+.Fity-free-code-temp img {
+    width: 20%;
+    height: 20%;
+    align-items: center;
+    align-content: center;
+    padding: 2.5rem;
+}
+
+.Fity-free-code-temp div ul {
+    position: relative;
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    align-content: space-between;
+    overflow: hidden;
+    width: 90%;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+.Fity-free-code-temp div ul li {
+    padding: 5%;
+}
+
+.Fity-free-code-temp div p {
+    font-size: 18px;
+    padding-right: 10%;
+
+}
+
+.Fity-free-code-temp div h3 {
+    font-size: 2rem;
+    padding-top: 1rem;
+}
+
+.Fity-free-code-temp div button {
+    color: #fff;
+    background-color: rgb(183, 126, 20);
+    margin-bottom: 10%;
+    font-size: 16px;
+    border: none;
+    border-radius: 5%;
+    height: 3rem;
+    padding: 1rem;
+    text-align: center;
+    align-content: center;
+}
+
+.create-wireframe img,
+.drive-into-web-dev img,
+.ip-address img {
+    display: flex;
+    width: 90%;
+    margin-inline: 5%;
+    padding: 4% 0;
+}
+
+.free-guide div{
+    display: inline-block;
+    width: 100%;
+
+}
+.free-guide div img{
+    width: 12rem;
+}
+
+
+.free-guide-content {}
+
+/* #web-dev-basic ol li {
+    font-weight: bold;
+} */
